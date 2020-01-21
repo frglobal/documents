@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-21T21:28:38.452Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="1BBcpIB4rlE9y8nx2Biz" version="12.5.5" type="github">
+<mxfile host="www.draw.io" modified="2020-01-21T21:36:23.814Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="TRkLvfCcwotRLoSQnQ53" version="12.5.5" type="github">
   <diagram id="WJbkcrBmJmuA8XXHKe5_" name="第1頁">
     <mxGraphModel dx="1550" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0" extFonts="Noto Sans^https://fonts.googleapis.com/css?family=Noto+Sans|Noto Sans CJK^https://fonts.googleapis.com/css?family=Noto+Sans+CJK|Noto Sans TC^https://fonts.googleapis.com/css?family=Noto+Sans+TC">
       <root>
@@ -17,9 +17,6 @@
         </mxCell>
         <mxCell id="vaWpKMgg9GfqvfIClh7l-30" value="Text" style="html=1;shadow=0;dashed=0;shape=mxgraph.atlassian.checkbox_2;fillColor=#0057D8;strokeColor=none;align=left;verticalAlign=middle;fontStyle=0;fontSize=12;labelPosition=right;verticalLabelPosition=middle;spacingLeft=10" vertex="1" parent="1">
           <mxGeometry x="460" y="250" width="12" height="12" as="geometry"/>
-        </mxCell>
-        <mxCell id="vaWpKMgg9GfqvfIClh7l-31" value="Option 1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fillColor=#eeeeee;strokeColor=#999999;gradientColor=#cccccc;align=left;spacingLeft=4;fontSize=17;fontColor=#666666;labelPosition=right;" vertex="1" parent="1">
-          <mxGeometry x="20" y="280" width="15" height="15" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
