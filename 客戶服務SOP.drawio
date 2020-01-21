@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-01-21T22:37:49.503Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="ZN7Zh3BfnPLFALpkZm3x" version="12.5.5" type="github">
+<mxfile host="www.draw.io" modified="2020-01-21T22:46:16.426Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="cj9cF1PtoIdHyvMqwaCN" version="12.5.5" type="github">
   <diagram id="WJbkcrBmJmuA8XXHKe5_" name="第1頁">
-    <mxGraphModel dx="1069" dy="2915" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0" extFonts="Noto Sans^https://fonts.googleapis.com/css?family=Noto+Sans|Noto Sans CJK^https://fonts.googleapis.com/css?family=Noto+Sans+CJK|Noto Sans TC^https://fonts.googleapis.com/css?family=Noto+Sans+TC">
+    <mxGraphModel dx="1824" dy="3322" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0" extFonts="Noto Sans^https://fonts.googleapis.com/css?family=Noto+Sans|Noto Sans CJK^https://fonts.googleapis.com/css?family=Noto+Sans+CJK|Noto Sans TC^https://fonts.googleapis.com/css?family=Noto+Sans+TC">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -15,8 +15,17 @@
         <mxCell id="vaWpKMgg9GfqvfIClh7l-1" value="01. 確認安裝環境" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;outline=standard;symbol=general;" vertex="1" parent="1">
           <mxGeometry x="60" y="-2240" width="50" height="50" as="geometry"/>
         </mxCell>
-        <mxCell id="vaWpKMgg9GfqvfIClh7l-47" value="&lt;h1 style=&quot;color: rgb(51, 51, 51); white-space: normal;&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;SFC001-初次安裝&lt;/font&gt;&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#ABABAB;align=left;shadow=0;glass=0;comic=0;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;fontFamily=Noto Sans TC;" vertex="1" parent="1">
-          <mxGeometry x="20" y="-2310" width="360" height="30" as="geometry"/>
+        <mxCell id="vaWpKMgg9GfqvfIClh7l-48" value="SFC001-初次安裝" style="text;html=1;fontFamily=Noto Sans TC;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="40" y="-2330" width="145" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="vaWpKMgg9GfqvfIClh7l-52" value="" style="group;fillColor=#ffffff;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="10" y="-2330" width="19" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="vaWpKMgg9GfqvfIClh7l-49" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;strokeColor=#ABABAB;fontFamily=Noto Sans TC;fontSize=17;align=left;fillColor=#3399FF;" vertex="1" parent="vaWpKMgg9GfqvfIClh7l-52">
+          <mxGeometry width="10" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="vaWpKMgg9GfqvfIClh7l-51" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;strokeColor=#ABABAB;fontFamily=Noto Sans TC;fontSize=17;align=left;fillColor=#3399FF;" vertex="1" parent="vaWpKMgg9GfqvfIClh7l-52">
+          <mxGeometry x="14" width="5" height="30" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
