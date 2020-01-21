@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-21T22:18:00.011Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="n4j30p__6T6TgzdZohcn" version="12.5.5" type="github">
+<mxfile host="www.draw.io" modified="2020-01-21T22:21:05.320Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="e4uEh6olf-IpyiAgA9Ir" version="12.5.5" type="github">
   <diagram id="WJbkcrBmJmuA8XXHKe5_" name="第1頁">
     <mxGraphModel dx="1550" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0" extFonts="Noto Sans^https://fonts.googleapis.com/css?family=Noto+Sans|Noto Sans CJK^https://fonts.googleapis.com/css?family=Noto+Sans+CJK|Noto Sans TC^https://fonts.googleapis.com/css?family=Noto+Sans+TC">
       <root>
@@ -18,7 +18,7 @@
         <mxCell id="vaWpKMgg9GfqvfIClh7l-30" value="Text" style="html=1;shadow=0;dashed=0;shape=mxgraph.atlassian.checkbox_2;fillColor=#0057D8;strokeColor=none;align=left;verticalAlign=middle;fontStyle=0;fontSize=12;labelPosition=right;verticalLabelPosition=middle;spacingLeft=10" vertex="1" parent="1">
           <mxGeometry x="460" y="250" width="12" height="12" as="geometry"/>
         </mxCell>
-        <UserObject label="help.finereport.com.tw" link="http://help.finereport.com.tw" id="vaWpKMgg9GfqvfIClh7l-32">
+        <UserObject label="help.finereport.com.tw" link="https://fanruanhelp.zendesk.com/hc/zh-tw" id="vaWpKMgg9GfqvfIClh7l-32">
           <mxCell style="fontColor=#0000EE;fontStyle=4;rounded=1;overflow=hidden;spacing=10;" vertex="1" parent="1">
             <mxGeometry x="90" y="180" width="150" height="40" as="geometry"/>
           </mxCell>
