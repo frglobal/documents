@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-22T07:38:34.674Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="9W6huP1IkrrCA3OlBq_w" version="12.5.5" type="github" pages="2">
+<mxfile host="www.draw.io" modified="2020-01-22T07:41:59.270Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="0Ex_OhuNa--ODBaUPhZt" version="12.5.5" type="github" pages="2">
   <diagram id="WJbkcrBmJmuA8XXHKe5_" name="第1頁">
     <mxGraphModel dx="1824" dy="3322" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FCFCFC" math="0" shadow="0" extFonts="Noto Sans^https://fonts.googleapis.com/css?family=Noto+Sans|Noto Sans CJK^https://fonts.googleapis.com/css?family=Noto+Sans+CJK|Noto Sans TC^https://fonts.googleapis.com/css?family=Noto+Sans+TC">
       <root>
@@ -69,17 +69,11 @@
         <mxCell id="vaWpKMgg9GfqvfIClh7l-100" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;strokeColor=#000000;fontFamily=Noto Sans TC;fontSize=14;" edge="1" parent="1" source="vaWpKMgg9GfqvfIClh7l-97" target="vaWpKMgg9GfqvfIClh7l-99">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="vaWpKMgg9GfqvfIClh7l-105" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;strokeColor=#CCCCCC;fontFamily=Noto Sans TC;fontSize=14;" edge="1" parent="1" source="vaWpKMgg9GfqvfIClh7l-97" target="vaWpKMgg9GfqvfIClh7l-104">
-          <mxGeometry relative="1" as="geometry"/>
-        </mxCell>
         <mxCell id="vaWpKMgg9GfqvfIClh7l-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;strokeColor=#CCCCCC;fontFamily=Noto Sans TC;fontSize=14;" edge="1" parent="1" source="vaWpKMgg9GfqvfIClh7l-97" target="vaWpKMgg9GfqvfIClh7l-102">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="vaWpKMgg9GfqvfIClh7l-97" value="04.確認安裝時間" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;outline=throwing;symbol=general;rounded=0;shadow=0;glass=0;comic=0;strokeColor=#000000;strokeWidth=1;fillColor=none;fontFamily=Noto Sans TC;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="60" y="-1770" width="50" height="50" as="geometry"/>
-        </mxCell>
-        <mxCell id="vaWpKMgg9GfqvfIClh7l-104" value="04.確認遠程或現場" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;outline=throwing;symbol=general;rounded=0;shadow=0;glass=0;comic=0;strokeColor=#000000;strokeWidth=1;fillColor=none;fontFamily=Noto Sans TC;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="60" y="-1640" width="50" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="vaWpKMgg9GfqvfIClh7l-99" value="05.確認安裝文件" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;outline=throwing;symbol=general;rounded=0;shadow=0;glass=0;comic=0;strokeColor=#000000;strokeWidth=1;fillColor=none;fontFamily=Noto Sans TC;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="60" y="-1640" width="50" height="50" as="geometry"/>
