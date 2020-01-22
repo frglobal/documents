@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-22T12:28:46.250Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="0lXAEgKaotftkIY6tsD6" version="12.5.5" type="github" pages="2">
+<mxfile host="www.draw.io" modified="2020-01-22T12:30:02.523Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="powlY6ffe6TNmPONUEK2" version="12.5.5" type="github" pages="2">
   <diagram id="WJbkcrBmJmuA8XXHKe5_" name="第1頁">
     <mxGraphModel dx="1550" dy="3174" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FCFCFC" math="0" shadow="0" extFonts="Noto Sans^https://fonts.googleapis.com/css?family=Noto+Sans|Noto Sans CJK^https://fonts.googleapis.com/css?family=Noto+Sans+CJK|Noto Sans TC^https://fonts.googleapis.com/css?family=Noto+Sans+TC">
       <root>
@@ -171,17 +171,14 @@
             <mxPoint y="110" as="offset"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pW0NeGOgxv80crc7upZm-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;fontFamily=Noto Sans TC;" edge="1" parent="1" source="pW0NeGOgxv80crc7upZm-11" target="pW0NeGOgxv80crc7upZm-33">
+        <mxCell id="pW0NeGOgxv80crc7upZm-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;fontFamily=Noto Sans TC;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pW0NeGOgxv80crc7upZm-13" target="pW0NeGOgxv80crc7upZm-33">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="104.75" y="-2120" as="sourcePoint"/>
+            <mxPoint x="105" y="-2160" as="sourcePoint"/>
             <mxPoint x="105" y="-2050" as="targetPoint"/>
-            <Array as="points">
-              <mxPoint x="105" y="-2105"/>
-            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pW0NeGOgxv80crc7upZm-11" value="售前, 技術支持，項目" style="html=1;whiteSpace=wrap;rounded=1;fillColor=none;fontFamily=Noto Sans TC;" vertex="1" parent="1">
-          <mxGeometry x="29.5" y="-2214" width="150.5" height="54" as="geometry"/>
+        <mxCell id="pW0NeGOgxv80crc7upZm-11" value="售前, 技術支持，項目發起安裝任務" style="html=1;whiteSpace=wrap;rounded=1;fillColor=none;fontFamily=Noto Sans TC;" vertex="1" parent="1">
+          <mxGeometry x="29.5" y="-2214" width="240.5" height="54" as="geometry"/>
         </mxCell>
         <mxCell id="pW0NeGOgxv80crc7upZm-12" value="" style="html=1;shape=mxgraph.bpmn.user_task;outlineConnect=0;" vertex="1" parent="pW0NeGOgxv80crc7upZm-11">
           <mxGeometry width="14" height="14" relative="1" as="geometry">
@@ -190,7 +187,7 @@
         </mxCell>
         <mxCell id="pW0NeGOgxv80crc7upZm-13" value="" style="html=1;shape=plus;outlineConnect=0;" vertex="1" parent="pW0NeGOgxv80crc7upZm-11">
           <mxGeometry x="0.5" y="1" width="14" height="14" relative="1" as="geometry">
-            <mxPoint x="-7" y="-14" as="offset"/>
+            <mxPoint x="-51.75" y="-14" as="offset"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="pW0NeGOgxv80crc7upZm-17" value="記錄硬體規格" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;outline=end;symbol=general;fillColor=none;fontFamily=Noto Sans TC;" vertex="1" parent="1">
