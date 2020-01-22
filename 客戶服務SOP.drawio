@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-22T07:41:59.270Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="0Ex_OhuNa--ODBaUPhZt" version="12.5.5" type="github" pages="2">
+<mxfile host="www.draw.io" modified="2020-01-22T07:48:13.884Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="7FOqw7Cmz-16dQiBIFc6" version="12.5.5" type="github" pages="2">
   <diagram id="WJbkcrBmJmuA8XXHKe5_" name="第1頁">
     <mxGraphModel dx="1824" dy="3322" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FCFCFC" math="0" shadow="0" extFonts="Noto Sans^https://fonts.googleapis.com/css?family=Noto+Sans|Noto Sans CJK^https://fonts.googleapis.com/css?family=Noto+Sans+CJK|Noto Sans TC^https://fonts.googleapis.com/css?family=Noto+Sans+TC">
       <root>
@@ -83,6 +83,45 @@
         </mxCell>
         <mxCell id="vaWpKMgg9GfqvfIClh7l-107" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;background=gateway;outlineConnect=0;outline=none;symbol=parallelGw;rounded=1;shadow=0;glass=0;comic=0;strokeColor=#CCCCCC;strokeWidth=1;fillColor=none;fontFamily=Noto Sans TC;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="200" y="-1900" width="50" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="wOlGX5YxLvIRpSPbVcTa-2" value="LAN 1G" style="html=1;shadow=0;dashed=0;shape=mxgraph.atlassian.checkbox_2;fillColor=#0057D8;strokeColor=none;fontColor=#000000;align=left;verticalAlign=middle;fontStyle=0;fontSize=12;labelPosition=right;verticalLabelPosition=middle;spacingLeft=10;rounded=1;glass=0;comic=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="-2192" width="12" height="12" as="geometry"/>
+        </mxCell>
+        <mxCell id="wOlGX5YxLvIRpSPbVcTa-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;strokeColor=#CCCCCC;fontFamily=Noto Sans TC;fontSize=14;" edge="1" parent="1" source="wOlGX5YxLvIRpSPbVcTa-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="406.58823529411757" y="-2110" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wOlGX5YxLvIRpSPbVcTa-24" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fillColor=#ffffff;rounded=0;glass=0;comic=0;labelBackgroundColor=none;fontFamily=Noto Sans TC;fontSize=14;flipH=0;flipV=0;" vertex="1" parent="1">
+          <mxGeometry x="332" y="-2120" width="150" height="200" as="geometry"/>
+        </mxCell>
+        <mxCell id="wOlGX5YxLvIRpSPbVcTa-25" value="Title" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#008cff;fontSize=17;fillColor=#ffffff;resizeWidth=1;" vertex="1" parent="wOlGX5YxLvIRpSPbVcTa-24">
+          <mxGeometry width="150" height="30" relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="wOlGX5YxLvIRpSPbVcTa-26" value="Item 1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=17;fontColor=#666666;align=left;spacingLeft=5;resizeWidth=1;" vertex="1" parent="wOlGX5YxLvIRpSPbVcTa-24">
+          <mxGeometry width="150" height="20" relative="1" as="geometry">
+            <mxPoint y="30" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wOlGX5YxLvIRpSPbVcTa-27" value="Item 2" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=17;fontColor=#666666;align=left;spacingLeft=5;resizeWidth=1;" vertex="1" parent="wOlGX5YxLvIRpSPbVcTa-24">
+          <mxGeometry width="150" height="20" relative="1" as="geometry">
+            <mxPoint y="50" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wOlGX5YxLvIRpSPbVcTa-28" value="Item 3" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fontSize=17;fontColor=#666666;align=left;spacingLeft=5;fillColor=#ddeeff;strokeColor=none;resizeWidth=1;" vertex="1" parent="wOlGX5YxLvIRpSPbVcTa-24">
+          <mxGeometry width="150" height="20" relative="1" as="geometry">
+            <mxPoint y="70" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wOlGX5YxLvIRpSPbVcTa-29" value="Item 4" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=17;fontColor=#666666;align=left;spacingLeft=5;resizeWidth=1;" vertex="1" parent="wOlGX5YxLvIRpSPbVcTa-24">
+          <mxGeometry width="150" height="20" relative="1" as="geometry">
+            <mxPoint y="90" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wOlGX5YxLvIRpSPbVcTa-38" value="Item 4" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=17;fontColor=#666666;align=left;spacingLeft=5;resizeWidth=1;" vertex="1" parent="wOlGX5YxLvIRpSPbVcTa-24">
+          <mxGeometry width="150" height="20" relative="1" as="geometry">
+            <mxPoint y="110" as="offset"/>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
