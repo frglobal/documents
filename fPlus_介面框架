@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-03T02:56:12.343Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="5QoN7IlCQwAcnI-ihSqg" version="12.6.4" type="github">
+<mxfile host="www.draw.io" modified="2020-02-03T03:01:16.739Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="jipeuC0nSM3UU_lZJ9v4" version="12.6.4" type="github">
   <diagram id="ym90DieLMgRDp9SGPn0L" name="第1頁">
     <mxGraphModel dx="1550" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -27,7 +27,7 @@
             <mxPoint x="315" y="340" as="sourcePoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="DN2wlduGNuz4GtRzO41F-3" value="客戶主檔填報&lt;br&gt;CRUD" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DN2wlduGNuz4GtRzO41F-3" value="客戶主檔單筆填報&lt;br&gt;CRUD" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="250" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="DN2wlduGNuz4GtRzO41F-6" value="數據必要過濾條件" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;fillColor=#008cff;fontColor=#FFFFFF;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
@@ -35,6 +35,9 @@
         </mxCell>
         <mxCell id="DN2wlduGNuz4GtRzO41F-7" value="+Attribute1&#xa;+Attribute2&#xa;+Attribute3" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="DN2wlduGNuz4GtRzO41F-6">
           <mxGeometry y="30" width="160" height="90" as="geometry"/>
+        </mxCell>
+        <mxCell id="DN2wlduGNuz4GtRzO41F-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DN2wlduGNuz4GtRzO41F-8" target="DN2wlduGNuz4GtRzO41F-26">
+          <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="DN2wlduGNuz4GtRzO41F-8" value="客戶查詢器&lt;br&gt;支持單選，複選結果傳遞" style="label;whiteSpace=wrap;html=1;image=img/clipart/Gear_128x128.png" vertex="1" parent="1">
           <mxGeometry x="245" y="280" width="140" height="60" as="geometry"/>
@@ -45,7 +48,7 @@
         <mxCell id="DN2wlduGNuz4GtRzO41F-16" value="結果輸出：單筆，多筆匯出列印（多種格式）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="255" y="540" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="DN2wlduGNuz4GtRzO41F-18" value="客戶明細填報&lt;br&gt;CRUD" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DN2wlduGNuz4GtRzO41F-18" value="客戶明細單筆填報&lt;br&gt;CRUD" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="430" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="DN2wlduGNuz4GtRzO41F-21" value="客戶主檔excel匯入" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -53,6 +56,9 @@
         </mxCell>
         <mxCell id="DN2wlduGNuz4GtRzO41F-24" value="客戶明細Excel匯入" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="520" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="DN2wlduGNuz4GtRzO41F-26" value="&lt;ul&gt;&lt;li&gt;銷售機會&lt;/li&gt;&lt;li&gt;報價&lt;/li&gt;&lt;li&gt;訂單&lt;/li&gt;&lt;li&gt;銷貨&lt;/li&gt;&lt;li&gt;帳款&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+          <mxGeometry x="50" y="260" width="100" height="100" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
