@@ -1,18 +1,9 @@
-<mxfile host="www.draw.io" modified="2020-02-03T23:43:33.369Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="B17E_DOrlnFJth47Bdtk" version="12.6.4" type="github">
+<mxfile host="www.draw.io" modified="2020-02-03T23:45:08.789Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="0ilqhVr9MMMf2BcryQAI" version="12.6.4" type="github">
   <diagram id="VFQIRhX2l2Cj4RpFaq4_" name="第1頁">
     <mxGraphModel dx="2993" dy="984" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
-        <mxCell id="ilsoI_vcHrYi1VQH8grE-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ilsoI_vcHrYi1VQH8grE-1" target="ilsoI_vcHrYi1VQH8grE-3">
-          <mxGeometry relative="1" as="geometry"/>
-        </mxCell>
-        <mxCell id="ilsoI_vcHrYi1VQH8grE-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.568;entryY=-0.027;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ilsoI_vcHrYi1VQH8grE-1" target="ilsoI_vcHrYi1VQH8grE-2">
-          <mxGeometry relative="1" as="geometry"/>
-        </mxCell>
-        <mxCell id="ilsoI_vcHrYi1VQH8grE-1" value="全域參數" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-280" y="50" width="120" height="60" as="geometry"/>
-        </mxCell>
         <mxCell id="ilsoI_vcHrYi1VQH8grE-2" value="模塊參數" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-360" y="160" width="120" height="60" as="geometry"/>
         </mxCell>
@@ -129,6 +120,21 @@
         </mxCell>
         <mxCell id="ilsoI_vcHrYi1VQH8grE-47" value="功能權限" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-40" y="160" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="ilsoI_vcHrYi1VQH8grE-49" value="系統參數" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-520" y="160" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="ilsoI_vcHrYi1VQH8grE-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.568;entryY=0.004;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ilsoI_vcHrYi1VQH8grE-50" target="ilsoI_vcHrYi1VQH8grE-49">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="ilsoI_vcHrYi1VQH8grE-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ilsoI_vcHrYi1VQH8grE-50" target="ilsoI_vcHrYi1VQH8grE-2">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="ilsoI_vcHrYi1VQH8grE-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ilsoI_vcHrYi1VQH8grE-50" target="ilsoI_vcHrYi1VQH8grE-3">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="ilsoI_vcHrYi1VQH8grE-50" value="參數設置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="50" width="120" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
