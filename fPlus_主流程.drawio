@@ -1,1 +1,136 @@
-<mxfile host="www.draw.io" modified="2020-02-03T23:31:49.920Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" version="12.6.4" etag="jZ5vzmQeVDuZ4SF_2xJT" type="github"><diagram id="VFQIRhX2l2Cj4RpFaq4_">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2020-02-03T23:43:33.369Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="B17E_DOrlnFJth47Bdtk" version="12.6.4" type="github">
+  <diagram id="VFQIRhX2l2Cj4RpFaq4_" name="第1頁">
+    <mxGraphModel dx="2993" dy="984" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="ilsoI_vcHrYi1VQH8grE-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ilsoI_vcHrYi1VQH8grE-1" target="ilsoI_vcHrYi1VQH8grE-3">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="ilsoI_vcHrYi1VQH8grE-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.568;entryY=-0.027;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ilsoI_vcHrYi1VQH8grE-1" target="ilsoI_vcHrYi1VQH8grE-2">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="ilsoI_vcHrYi1VQH8grE-1" value="全域參數" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="50" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="ilsoI_vcHrYi1VQH8grE-2" value="模塊參數" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="160" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="ilsoI_vcHrYi1VQH8grE-3" value="用戶參數" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="160" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="ilsoI_vcHrYi1VQH8grE-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ilsoI_vcHrYi1VQH8grE-4" target="ilsoI_vcHrYi1VQH8grE-7">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="ilsoI_vcHrYi1VQH8grE-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ilsoI_vcHrYi1VQH8grE-4" target="ilsoI_vcHrYi1VQH8grE-23">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="ilsoI_vcHrYi1VQH8grE-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ilsoI_vcHrYi1VQH8grE-4" target="ilsoI_vcHrYi1VQH8grE-26">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="ilsoI_vcHrYi1VQH8grE-4" value="基本資料" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-810" y="280" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="ilsoI_vcHrYi1VQH8grE-23" value="產品資料" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-810" y="450" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="ilsoI_vcHrYi1VQH8grE-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ilsoI_vcHrYi1VQH8grE-7" target="ilsoI_vcHrYi1VQH8grE-35">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="ilsoI_vcHrYi1VQH8grE-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ilsoI_vcHrYi1VQH8grE-7" target="ilsoI_vcHrYi1VQH8grE-37">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="ilsoI_vcHrYi1VQH8grE-7" value="公司資料(廠商&amp;amp;客戶)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1020" y="450" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="ilsoI_vcHrYi1VQH8grE-35" value="客戶資料" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1090" y="590" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="ilsoI_vcHrYi1VQH8grE-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ilsoI_vcHrYi1VQH8grE-5" target="ilsoI_vcHrYi1VQH8grE-9">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="ilsoI_vcHrYi1VQH8grE-5" value="銷售" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-350" y="280" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="ilsoI_vcHrYi1VQH8grE-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ilsoI_vcHrYi1VQH8grE-9" target="ilsoI_vcHrYi1VQH8grE-11">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="ilsoI_vcHrYi1VQH8grE-9" value="銷售機會" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-350" y="420" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="ilsoI_vcHrYi1VQH8grE-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ilsoI_vcHrYi1VQH8grE-11" target="ilsoI_vcHrYi1VQH8grE-15">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="ilsoI_vcHrYi1VQH8grE-11" value="報價" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-350" y="560" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="ilsoI_vcHrYi1VQH8grE-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ilsoI_vcHrYi1VQH8grE-15" target="ilsoI_vcHrYi1VQH8grE-17">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="ilsoI_vcHrYi1VQH8grE-15" value="訂單" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-350" y="700" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="ilsoI_vcHrYi1VQH8grE-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ilsoI_vcHrYi1VQH8grE-17" target="ilsoI_vcHrYi1VQH8grE-19">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="ilsoI_vcHrYi1VQH8grE-17" value="合約" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-350" y="840" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="ilsoI_vcHrYi1VQH8grE-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ilsoI_vcHrYi1VQH8grE-19" target="ilsoI_vcHrYi1VQH8grE-21">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="ilsoI_vcHrYi1VQH8grE-19" value="立帳" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-350" y="980" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="ilsoI_vcHrYi1VQH8grE-21" value="客服" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-350" y="1100" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="ilsoI_vcHrYi1VQH8grE-6" value="財務" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="280" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="ilsoI_vcHrYi1VQH8grE-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ilsoI_vcHrYi1VQH8grE-26" target="ilsoI_vcHrYi1VQH8grE-28">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="ilsoI_vcHrYi1VQH8grE-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ilsoI_vcHrYi1VQH8grE-26" target="ilsoI_vcHrYi1VQH8grE-33">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="ilsoI_vcHrYi1VQH8grE-26" value="人脈池資料" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-600" y="450" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="ilsoI_vcHrYi1VQH8grE-28" value="員工資料" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-670" y="590" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="ilsoI_vcHrYi1VQH8grE-33" value="平台用戶" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-530" y="590" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="ilsoI_vcHrYi1VQH8grE-37" value="廠商資料" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-950" y="590" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="ilsoI_vcHrYi1VQH8grE-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ilsoI_vcHrYi1VQH8grE-39" target="ilsoI_vcHrYi1VQH8grE-40">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="ilsoI_vcHrYi1VQH8grE-39" value="稅務" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="280" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="ilsoI_vcHrYi1VQH8grE-40" value="電子發票" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="420" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="ilsoI_vcHrYi1VQH8grE-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ilsoI_vcHrYi1VQH8grE-42" target="ilsoI_vcHrYi1VQH8grE-43">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="ilsoI_vcHrYi1VQH8grE-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ilsoI_vcHrYi1VQH8grE-42" target="ilsoI_vcHrYi1VQH8grE-47">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="ilsoI_vcHrYi1VQH8grE-42" value="權限" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="50" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="ilsoI_vcHrYi1VQH8grE-43" value="數據權限" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="160" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="ilsoI_vcHrYi1VQH8grE-47" value="功能權限" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="160" width="120" height="60" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
