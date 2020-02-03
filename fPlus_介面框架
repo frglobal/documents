@@ -1,10 +1,22 @@
-<mxfile host="www.draw.io" modified="2020-02-03T02:52:26.580Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="I5WTkoSfoK1ep2lsBTas" version="12.6.4" type="github">
+<mxfile host="www.draw.io" modified="2020-02-03T02:56:12.343Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="5QoN7IlCQwAcnI-ihSqg" version="12.6.4" type="github">
   <diagram id="ym90DieLMgRDp9SGPn0L" name="第1頁">
     <mxGraphModel dx="1550" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
-        <mxCell id="DN2wlduGNuz4GtRzO41F-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DN2wlduGNuz4GtRzO41F-1" target="DN2wlduGNuz4GtRzO41F-3">
+        <mxCell id="DN2wlduGNuz4GtRzO41F-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DN2wlduGNuz4GtRzO41F-1" target="DN2wlduGNuz4GtRzO41F-16">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="DN2wlduGNuz4GtRzO41F-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DN2wlduGNuz4GtRzO41F-1" target="DN2wlduGNuz4GtRzO41F-18">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="DN2wlduGNuz4GtRzO41F-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DN2wlduGNuz4GtRzO41F-1" target="DN2wlduGNuz4GtRzO41F-21">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="DN2wlduGNuz4GtRzO41F-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DN2wlduGNuz4GtRzO41F-1" target="DN2wlduGNuz4GtRzO41F-3">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="DN2wlduGNuz4GtRzO41F-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DN2wlduGNuz4GtRzO41F-1" target="DN2wlduGNuz4GtRzO41F-24">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="DN2wlduGNuz4GtRzO41F-1" value="客戶查詢結果列表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -15,8 +27,8 @@
             <mxPoint x="315" y="340" as="sourcePoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="DN2wlduGNuz4GtRzO41F-3" value="客戶填報&lt;br&gt;CRUD" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="420" width="120" height="60" as="geometry"/>
+        <mxCell id="DN2wlduGNuz4GtRzO41F-3" value="客戶主檔填報&lt;br&gt;CRUD" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="250" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="DN2wlduGNuz4GtRzO41F-6" value="數據必要過濾條件" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;fillColor=#008cff;fontColor=#FFFFFF;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
           <mxGeometry x="235" y="70" width="160" height="120" as="geometry"/>
@@ -29,6 +41,18 @@
         </mxCell>
         <mxCell id="DN2wlduGNuz4GtRzO41F-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DN2wlduGNuz4GtRzO41F-7" target="DN2wlduGNuz4GtRzO41F-8">
           <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="DN2wlduGNuz4GtRzO41F-16" value="結果輸出：單筆，多筆匯出列印（多種格式）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="255" y="540" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="DN2wlduGNuz4GtRzO41F-18" value="客戶明細填報&lt;br&gt;CRUD" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="430" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="DN2wlduGNuz4GtRzO41F-21" value="客戶主檔excel匯入" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="340" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="DN2wlduGNuz4GtRzO41F-24" value="客戶明細Excel匯入" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="520" width="120" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
