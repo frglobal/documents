@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-04T02:24:19.073Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="hBrwL-a7b5JPuMGTFgdq" version="12.6.4" type="github">
+<mxfile host="www.draw.io" modified="2020-02-04T02:59:11.505Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="_CRLp9HX5kRZBsAkEgOu" version="12.6.4" type="github">
   <diagram id="VFQIRhX2l2Cj4RpFaq4_" name="第1頁">
     <mxGraphModel dx="4162" dy="984" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -133,8 +133,14 @@
         <mxCell id="ilsoI_vcHrYi1VQH8grE-28" value="員工資料" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-670" y="590" width="120" height="60" as="geometry"/>
         </mxCell>
+        <mxCell id="ilsoI_vcHrYi1VQH8grE-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ilsoI_vcHrYi1VQH8grE-33" target="ilsoI_vcHrYi1VQH8grE-95">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
         <mxCell id="ilsoI_vcHrYi1VQH8grE-33" value="平台用戶" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-530" y="590" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="ilsoI_vcHrYi1VQH8grE-95" value="多公司&lt;br&gt;經銷商&lt;br&gt;廠商&lt;br&gt;客戶" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-530" y="730" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="ilsoI_vcHrYi1VQH8grE-37" value="廠商資料" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-950" y="590" width="120" height="60" as="geometry"/>
