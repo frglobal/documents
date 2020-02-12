@@ -1,11 +1,11 @@
-<mxfile host="www.draw.io" modified="2020-02-12T11:01:13.303Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36" etag="r-2mkX4bNoFNR7xEH-dw" version="12.6.7" type="github">
+<mxfile host="www.draw.io" modified="2020-02-12T11:02:08.515Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36" etag="AYVK6BCQ1zNwL2y71O7Z" version="12.6.7" type="github">
   <diagram id="dHluvIDfJI8eCWZC6_ZO" name="第1頁">
     <mxGraphModel dx="1550" dy="787" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0" extFonts="Noto Sans TC^https://fonts.googleapis.com/css?family=Noto+Sans+TC|Noto Sans^https://fonts.googleapis.com/css?family=Noto+Sans|Noto Sans CJK^https://fonts.googleapis.com/css?family=Noto+Sans+CJK">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
         <mxCell id="jrHpdS6Ge3ZfMJk4U6v5-38" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#CCCCCC;fillColor=#EDEDED;fontFamily=Noto Sans CJK;" vertex="1" parent="1">
-          <mxGeometry x="64" y="225" width="136" height="395" as="geometry"/>
+          <mxGeometry x="64" y="225" width="136" height="435" as="geometry"/>
         </mxCell>
         <mxCell id="jrHpdS6Ge3ZfMJk4U6v5-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Noto Sans TC;fontSize=14;" edge="1" parent="1" source="jrHpdS6Ge3ZfMJk4U6v5-1" target="jrHpdS6Ge3ZfMJk4U6v5-20">
           <mxGeometry relative="1" as="geometry">
@@ -123,6 +123,9 @@
         </mxCell>
         <mxCell id="jrHpdS6Ge3ZfMJk4U6v5-59" value="第一階段" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;fontFamily=Noto Sans TC;" vertex="1" parent="1">
           <mxGeometry x="64" y="30" width="90" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="jrHpdS6Ge3ZfMJk4U6v5-60" value="文件管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Noto Sans TC;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="72" y="600" width="120" height="30" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
