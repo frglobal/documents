@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-12T10:55:44.089Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36" etag="fQ7fcDxLodW5tk7Fmcwd" version="12.6.7" type="github">
+<mxfile host="www.draw.io" modified="2020-02-12T10:56:26.300Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36" etag="4jxYNOmymmt8eGtM-J_6" version="12.6.7" type="github">
   <diagram id="dHluvIDfJI8eCWZC6_ZO" name="第1頁">
     <mxGraphModel dx="1550" dy="787" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0" extFonts="Noto Sans TC^https://fonts.googleapis.com/css?family=Noto+Sans+TC|Noto Sans^https://fonts.googleapis.com/css?family=Noto+Sans|Noto Sans CJK^https://fonts.googleapis.com/css?family=Noto+Sans+CJK">
       <root>
@@ -85,7 +85,7 @@
         <mxCell id="jrHpdS6Ge3ZfMJk4U6v5-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Noto Sans TC;fontSize=14;" edge="1" parent="jrHpdS6Ge3ZfMJk4U6v5-26" source="jrHpdS6Ge3ZfMJk4U6v5-45" target="jrHpdS6Ge3ZfMJk4U6v5-48">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="jrHpdS6Ge3ZfMJk4U6v5-45" value="功能權限" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Noto Sans TC;fontSize=14;" vertex="1" parent="jrHpdS6Ge3ZfMJk4U6v5-26">
+        <mxCell id="jrHpdS6Ge3ZfMJk4U6v5-45" value="角色權限" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Noto Sans TC;fontSize=14;" vertex="1" parent="jrHpdS6Ge3ZfMJk4U6v5-26">
           <mxGeometry x="506" y="15" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="jrHpdS6Ge3ZfMJk4U6v5-18" value="全域相關" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;fontFamily=Noto Sans TC;" vertex="1" parent="jrHpdS6Ge3ZfMJk4U6v5-26">
