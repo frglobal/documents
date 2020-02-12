@@ -1,1 +1,52 @@
-<mxfile host="www.draw.io" modified="2020-02-12T10:09:58.913Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36" version="12.6.7" etag="LDTm3cEM5QV3XjCTgiUO" type="github"><diagram id="dHluvIDfJI8eCWZC6_ZO">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2020-02-12T10:38:54.706Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36" etag="DViULsKps-w4LHF0cjtk" version="12.6.7" type="github">
+  <diagram id="dHluvIDfJI8eCWZC6_ZO" name="第1頁">
+    <mxGraphModel dx="1550" dy="787" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0" extFonts="Noto Sans TC^https://fonts.googleapis.com/css?family=Noto+Sans+TC|Noto Sans^https://fonts.googleapis.com/css?family=Noto+Sans|Noto Sans CJK^https://fonts.googleapis.com/css?family=Noto+Sans+CJK">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="jrHpdS6Ge3ZfMJk4U6v5-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Noto Sans TC;fontSize=14;" edge="1" parent="1" source="jrHpdS6Ge3ZfMJk4U6v5-1" target="jrHpdS6Ge3ZfMJk4U6v5-20">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="jrHpdS6Ge3ZfMJk4U6v5-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Noto Sans TC;fontSize=14;" edge="1" parent="1" source="jrHpdS6Ge3ZfMJk4U6v5-1" target="jrHpdS6Ge3ZfMJk4U6v5-22">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="jrHpdS6Ge3ZfMJk4U6v5-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Noto Sans TC;fontSize=14;" edge="1" parent="1" source="jrHpdS6Ge3ZfMJk4U6v5-1" target="jrHpdS6Ge3ZfMJk4U6v5-24">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="jrHpdS6Ge3ZfMJk4U6v5-1" value="基本資料" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Noto Sans TC;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="524" y="230" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="jrHpdS6Ge3ZfMJk4U6v5-24" value="財務" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Noto Sans TC;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="524" y="370" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="jrHpdS6Ge3ZfMJk4U6v5-22" value="進項" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Noto Sans TC;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="724" y="230" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="jrHpdS6Ge3ZfMJk4U6v5-20" value="銷售" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Noto Sans TC;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="324" y="230" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="jrHpdS6Ge3ZfMJk4U6v5-26" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="154" y="30" width="860" height="90" as="geometry"/>
+        </mxCell>
+        <mxCell id="jrHpdS6Ge3ZfMJk4U6v5-17" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#CCCCCC;fillColor=#EDEDED;fontFamily=Noto Sans CJK;" vertex="1" parent="jrHpdS6Ge3ZfMJk4U6v5-26">
+          <mxGeometry width="860" height="90" as="geometry"/>
+        </mxCell>
+        <mxCell id="jrHpdS6Ge3ZfMJk4U6v5-6" value="系統參數" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Noto Sans TC;fontSize=14;" vertex="1" parent="jrHpdS6Ge3ZfMJk4U6v5-26">
+          <mxGeometry x="160" y="15" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="jrHpdS6Ge3ZfMJk4U6v5-10" value="功能權限" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Noto Sans TC;fontSize=14;" vertex="1" parent="jrHpdS6Ge3ZfMJk4U6v5-26">
+          <mxGeometry x="527" y="15" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="jrHpdS6Ge3ZfMJk4U6v5-14" value="數據權限" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Noto Sans TC;fontSize=14;" vertex="1" parent="jrHpdS6Ge3ZfMJk4U6v5-26">
+          <mxGeometry x="710" y="15" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="jrHpdS6Ge3ZfMJk4U6v5-18" value="全域相關" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;fontFamily=Noto Sans TC;" vertex="1" parent="jrHpdS6Ge3ZfMJk4U6v5-26">
+          <mxGeometry x="40" y="35" width="90" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="jrHpdS6Ge3ZfMJk4U6v5-19" value="用戶參數" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Noto Sans TC;fontSize=14;" vertex="1" parent="jrHpdS6Ge3ZfMJk4U6v5-26">
+          <mxGeometry x="343" y="15" width="120" height="60" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
