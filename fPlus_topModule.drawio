@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-13T03:36:45.056Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36" etag="ePN573H7JGnz38Ac0yKg" version="12.6.8" type="github">
+<mxfile host="www.draw.io" modified="2020-02-13T03:56:26.771Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36" etag="gHqrtUJ3VaB8rXFL12oM" version="12.6.8" type="github">
   <diagram id="dHluvIDfJI8eCWZC6_ZO" name="第1頁">
     <mxGraphModel dx="956" dy="787" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0" extFonts="Noto Sans TC^https://fonts.googleapis.com/css?family=Noto+Sans+TC|Noto Sans^https://fonts.googleapis.com/css?family=Noto+Sans|Noto Sans CJK^https://fonts.googleapis.com/css?family=Noto+Sans+CJK">
       <root>
@@ -23,7 +23,7 @@
         <mxCell id="jrHpdS6Ge3ZfMJk4U6v5-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Noto Sans TC;fontSize=14;" parent="1" source="jrHpdS6Ge3ZfMJk4U6v5-1" target="jrHpdS6Ge3ZfMJk4U6v5-31" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <UserObject label="基本資料" link="https://kms.fineres.com/pages/viewpage.action?pageId=88654828&amp;target=parent" id="jrHpdS6Ge3ZfMJk4U6v5-1">
+        <UserObject label="基本資料" link="https://kms.fineres.com/pages/viewpage.action?pageId=88654828" id="jrHpdS6Ge3ZfMJk4U6v5-1">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Noto Sans TC;fontSize=14;" parent="1" vertex="1">
             <mxGeometry x="524" y="240" width="120" height="60" as="geometry"/>
           </mxCell>
@@ -152,9 +152,6 @@
             <mxGeometry x="85" y="870" width="50" height="40" as="geometry"/>
           </mxCell>
         </UserObject>
-        <mxCell id="E-t-FpmN-oMLfShnnYqg-2" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="434" y="220" width="40" height="20" as="geometry"/>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
