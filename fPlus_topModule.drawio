@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-13T05:40:24.526Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36" etag="oZAiHkHUqWNrMRHR4uy_" version="12.6.8" type="github">
+<mxfile host="www.draw.io" modified="2020-02-13T07:11:24.805Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36" etag="DrT5nyp46RcEaJW-GBTz" version="12.6.8" type="github">
   <diagram id="dHluvIDfJI8eCWZC6_ZO" name="第1頁">
     <mxGraphModel dx="1550" dy="787" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0" extFonts="Noto Sans TC^https://fonts.googleapis.com/css?family=Noto+Sans+TC|Noto Sans^https://fonts.googleapis.com/css?family=Noto+Sans|Noto Sans CJK^https://fonts.googleapis.com/css?family=Noto+Sans+CJK">
       <root>
@@ -149,9 +149,6 @@
         </mxCell>
         <mxCell id="E-t-FpmN-oMLfShnnYqg-3" value="T-code" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Noto Sans TC;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="72" y="640" width="120" height="30" as="geometry"/>
-        </mxCell>
-        <mxCell id="E-t-FpmN-oMLfShnnYqg-4" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="1062" y="490" width="40" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
