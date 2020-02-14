@@ -1,12 +1,12 @@
-<mxfile host="www.draw.io" modified="2020-02-13T12:33:28.099Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36" etag="LbtcyvZpSmVhmQiHiT5m" version="12.7.0" type="github">
+<mxfile host="www.draw.io" modified="2020-02-14T13:36:31.969Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.106 Safari/537.36" etag="FAcqTfU9260NIfrx2xq7" version="12.7.0" type="github">
   <diagram id="dHluvIDfJI8eCWZC6_ZO" name="第1頁">
-    <mxGraphModel dx="1550" dy="787" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0" extFonts="Noto Sans TC^https://fonts.googleapis.com/css?family=Noto+Sans+TC|Noto Sans^https://fonts.googleapis.com/css?family=Noto+Sans|Noto Sans CJK^https://fonts.googleapis.com/css?family=Noto+Sans+CJK">
+    <mxGraphModel dx="1550" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0" extFonts="Noto Sans TC^https://fonts.googleapis.com/css?family=Noto+Sans+TC|Noto Sans^https://fonts.googleapis.com/css?family=Noto+Sans|Noto Sans CJK^https://fonts.googleapis.com/css?family=Noto+Sans+CJK">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
         <UserObject label="" link="https://kms.fineres.com/pages/viewpage.action?pageId=98759707" id="jrHpdS6Ge3ZfMJk4U6v5-38">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#CCCCCC;fillColor=#EDEDED;fontFamily=Noto Sans CJK;" parent="1" vertex="1">
-            <mxGeometry x="64" y="225" width="136" height="465" as="geometry"/>
+            <mxGeometry x="64" y="225" width="136" height="505" as="geometry"/>
           </mxCell>
         </UserObject>
         <mxCell id="jrHpdS6Ge3ZfMJk4U6v5-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Noto Sans TC;fontSize=14;" parent="1" source="jrHpdS6Ge3ZfMJk4U6v5-1" target="jrHpdS6Ge3ZfMJk4U6v5-20" edge="1">
@@ -153,6 +153,9 @@
         </mxCell>
         <mxCell id="E-t-FpmN-oMLfShnnYqg-3" value="T-code" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Noto Sans TC;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="72" y="640" width="120" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="_yf4WRx2Q1xBdDcSps1T-1" value="bug/需求提報" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Noto Sans TC;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="72" y="680" width="120" height="30" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
