@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-14T13:36:31.969Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.106 Safari/537.36" etag="FAcqTfU9260NIfrx2xq7" version="12.7.0" type="github">
+<mxfile host="www.draw.io" modified="2020-02-15T21:46:22.267Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.106 Safari/537.36" etag="Yfo3SKTfgzIOCcECZi2E" version="12.7.0" type="github">
   <diagram id="dHluvIDfJI8eCWZC6_ZO" name="第1頁">
     <mxGraphModel dx="1550" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0" extFonts="Noto Sans TC^https://fonts.googleapis.com/css?family=Noto+Sans+TC|Noto Sans^https://fonts.googleapis.com/css?family=Noto+Sans|Noto Sans CJK^https://fonts.googleapis.com/css?family=Noto+Sans+CJK">
       <root>
@@ -12,7 +12,7 @@
         <mxCell id="jrHpdS6Ge3ZfMJk4U6v5-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Noto Sans TC;fontSize=14;" parent="1" source="jrHpdS6Ge3ZfMJk4U6v5-1" target="jrHpdS6Ge3ZfMJk4U6v5-20" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="380" y="270"/>
+              <mxPoint x="606" y="260"/>
             </Array>
           </mxGeometry>
         </mxCell>
@@ -25,25 +25,28 @@
         <mxCell id="jrHpdS6Ge3ZfMJk4U6v5-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Noto Sans TC;fontSize=14;" parent="1" source="jrHpdS6Ge3ZfMJk4U6v5-1" target="jrHpdS6Ge3ZfMJk4U6v5-31" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
+        <mxCell id="ukQEvOXcMc-PqdEoaFU2-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jrHpdS6Ge3ZfMJk4U6v5-1" target="ukQEvOXcMc-PqdEoaFU2-1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
         <UserObject label="基本資料" link="https://kms.fineres.com/pages/viewpage.action?pageId=98759665" id="jrHpdS6Ge3ZfMJk4U6v5-1">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Noto Sans TC;fontSize=14;" parent="1" vertex="1">
-            <mxGeometry x="524" y="240" width="120" height="60" as="geometry"/>
+            <mxGeometry x="750" y="230" width="120" height="60" as="geometry"/>
           </mxCell>
         </UserObject>
         <mxCell id="jrHpdS6Ge3ZfMJk4U6v5-31" value="人事" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Noto Sans TC;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="524" y="380" width="120" height="60" as="geometry"/>
+          <mxGeometry x="750" y="370" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="jrHpdS6Ge3ZfMJk4U6v5-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Noto Sans TC;fontSize=14;" parent="1" source="jrHpdS6Ge3ZfMJk4U6v5-24" target="jrHpdS6Ge3ZfMJk4U6v5-61" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="jrHpdS6Ge3ZfMJk4U6v5-24" value="帳款票務" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Noto Sans TC;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="524" y="520" width="120" height="60" as="geometry"/>
+          <mxGeometry x="750" y="510" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="QLBYcXktv-LypRA8qNQY-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jrHpdS6Ge3ZfMJk4U6v5-61" target="QLBYcXktv-LypRA8qNQY-1" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="jrHpdS6Ge3ZfMJk4U6v5-61" value="會計稅務" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Noto Sans TC;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="524" y="650" width="120" height="60" as="geometry"/>
+          <mxGeometry x="750" y="640" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="ZObVgeciivng7lonXeyt-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="QLBYcXktv-LypRA8qNQY-1" target="jrHpdS6Ge3ZfMJk4U6v5-20" edge="1">
           <mxGeometry relative="1" as="geometry"/>
@@ -52,21 +55,21 @@
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="QLBYcXktv-LypRA8qNQY-1" value="電子發票" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Noto Sans TC;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="524" y="790" width="120" height="60" as="geometry"/>
+          <mxGeometry x="750" y="780" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="jrHpdS6Ge3ZfMJk4U6v5-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Noto Sans TC;fontSize=14;" parent="1" source="jrHpdS6Ge3ZfMJk4U6v5-22" target="jrHpdS6Ge3ZfMJk4U6v5-33" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="jrHpdS6Ge3ZfMJk4U6v5-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Noto Sans TC;fontSize=14;" parent="1" source="jrHpdS6Ge3ZfMJk4U6v5-22" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="584" y="520" as="targetPoint"/>
+            <mxPoint x="810" y="510" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="jrHpdS6Ge3ZfMJk4U6v5-22" value="進項" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Noto Sans TC;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="724" y="380" width="120" height="60" as="geometry"/>
+          <mxGeometry x="950" y="370" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="jrHpdS6Ge3ZfMJk4U6v5-33" value="庫存" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Noto Sans TC;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="724" y="520" width="120" height="60" as="geometry"/>
+          <mxGeometry x="950" y="510" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="jrHpdS6Ge3ZfMJk4U6v5-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Noto Sans TC;fontSize=14;" parent="1" source="jrHpdS6Ge3ZfMJk4U6v5-20" target="jrHpdS6Ge3ZfMJk4U6v5-27" edge="1">
           <mxGeometry relative="1" as="geometry"/>
@@ -75,13 +78,16 @@
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="jrHpdS6Ge3ZfMJk4U6v5-20" value="銷售" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Noto Sans TC;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="324" y="380" width="120" height="60" as="geometry"/>
+          <mxGeometry x="550" y="370" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="ukQEvOXcMc-PqdEoaFU2-1" value="活動" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Noto Sans TC;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="350" y="370" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="jrHpdS6Ge3ZfMJk4U6v5-40" value="查詢器" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Noto Sans TC;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="72" y="280" width="120" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="jrHpdS6Ge3ZfMJk4U6v5-27" value="客服" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Noto Sans TC;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="324" y="520" width="120" height="60" as="geometry"/>
+          <mxGeometry x="550" y="510" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="jrHpdS6Ge3ZfMJk4U6v5-26" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="154" y="80" width="950" height="90" as="geometry"/>
@@ -154,7 +160,7 @@
         <mxCell id="E-t-FpmN-oMLfShnnYqg-3" value="T-code" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Noto Sans TC;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="72" y="640" width="120" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="_yf4WRx2Q1xBdDcSps1T-1" value="bug/需求提報" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Noto Sans TC;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="_yf4WRx2Q1xBdDcSps1T-1" value="bug/需求提報" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Noto Sans TC;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="72" y="680" width="120" height="30" as="geometry"/>
         </mxCell>
       </root>
