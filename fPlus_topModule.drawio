@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-15T21:46:22.267Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.106 Safari/537.36" etag="Yfo3SKTfgzIOCcECZi2E" version="12.7.0" type="github">
+<mxfile host="www.draw.io" modified="2020-02-16T15:21:10.577Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.106 Safari/537.36" etag="VrLrrpTHFBH5Iec-HDS0" version="12.7.0" type="github">
   <diagram id="dHluvIDfJI8eCWZC6_ZO" name="第1頁">
     <mxGraphModel dx="1550" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0" extFonts="Noto Sans TC^https://fonts.googleapis.com/css?family=Noto+Sans+TC|Noto Sans^https://fonts.googleapis.com/css?family=Noto+Sans|Noto Sans CJK^https://fonts.googleapis.com/css?family=Noto+Sans+CJK">
       <root>
@@ -6,7 +6,7 @@
         <mxCell id="1" parent="0"/>
         <UserObject label="" link="https://kms.fineres.com/pages/viewpage.action?pageId=98759707" id="jrHpdS6Ge3ZfMJk4U6v5-38">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#CCCCCC;fillColor=#EDEDED;fontFamily=Noto Sans CJK;" parent="1" vertex="1">
-            <mxGeometry x="64" y="225" width="136" height="505" as="geometry"/>
+            <mxGeometry x="64" y="225" width="136" height="555" as="geometry"/>
           </mxCell>
         </UserObject>
         <mxCell id="jrHpdS6Ge3ZfMJk4U6v5-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Noto Sans TC;fontSize=14;" parent="1" source="jrHpdS6Ge3ZfMJk4U6v5-1" target="jrHpdS6Ge3ZfMJk4U6v5-20" edge="1">
@@ -25,7 +25,7 @@
         <mxCell id="jrHpdS6Ge3ZfMJk4U6v5-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Noto Sans TC;fontSize=14;" parent="1" source="jrHpdS6Ge3ZfMJk4U6v5-1" target="jrHpdS6Ge3ZfMJk4U6v5-31" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="ukQEvOXcMc-PqdEoaFU2-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jrHpdS6Ge3ZfMJk4U6v5-1" target="ukQEvOXcMc-PqdEoaFU2-1">
+        <mxCell id="ukQEvOXcMc-PqdEoaFU2-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="jrHpdS6Ge3ZfMJk4U6v5-1" target="ukQEvOXcMc-PqdEoaFU2-1" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <UserObject label="基本資料" link="https://kms.fineres.com/pages/viewpage.action?pageId=98759665" id="jrHpdS6Ge3ZfMJk4U6v5-1">
@@ -80,7 +80,7 @@
         <mxCell id="jrHpdS6Ge3ZfMJk4U6v5-20" value="銷售" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Noto Sans TC;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="550" y="370" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="ukQEvOXcMc-PqdEoaFU2-1" value="活動" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Noto Sans TC;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="ukQEvOXcMc-PqdEoaFU2-1" value="活動" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Noto Sans TC;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="350" y="370" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="jrHpdS6Ge3ZfMJk4U6v5-40" value="查詢器" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Noto Sans TC;fontSize=14;" parent="1" vertex="1">
@@ -162,6 +162,9 @@
         </mxCell>
         <mxCell id="_yf4WRx2Q1xBdDcSps1T-1" value="bug/需求提報" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Noto Sans TC;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="72" y="680" width="120" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="0J9ZuR--bbmcgM49qFq9-1" value="Grid標題欄功能" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Noto Sans TC;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="72" y="720" width="120" height="30" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
