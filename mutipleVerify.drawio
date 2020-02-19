@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-02-19T11:42:05.833Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36" etag="YY5MX6PbMRhrwRxExM5M" version="12.7.2" type="github">
+<mxfile host="www.draw.io" modified="2020-02-19T11:43:24.464Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36" etag="tFmbXvEIGTpDk9rM5N1Z" version="12.7.2" type="github">
   <diagram id="iDs6DQGBZnNaJ7lMPx-e" name="第1頁">
-    <mxGraphModel dx="1550" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1069" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -83,6 +83,15 @@
             <mxPoint x="590" y="420" as="sourcePoint" />
             <mxPoint x="360" y="410" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="smmcW1K9c6VZIm_ssyYV-26" value="" style="endArrow=classic;html=1;exitX=0.649;exitY=1.069;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400.0000000000001" y="450.0040000000001" as="sourcePoint" />
+            <mxPoint x="400" y="528" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="smmcW1K9c6VZIm_ssyYV-27" value="需要動態判斷的就搭配JS&lt;br&gt;給個JS的方法&lt;br&gt;EX：widget.useVerify(&quot;001&quot;)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="540" width="370" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
