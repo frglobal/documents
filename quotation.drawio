@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-03-06T03:05:49.525Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="a-0vbeuoWpjtK2aHfXxS" version="12.8.1" type="github">
+<mxfile host="www.draw.io" modified="2020-03-06T03:08:55.505Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="ZFVaObIZTaa-mUI-Saow" version="12.8.1" type="github">
   <diagram id="F8nlzbj8KXvDInRQ5DdT" name="第1頁">
     <mxGraphModel dx="1550" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0" extFonts="Noto Sans TC^https://fonts.googleapis.com/css?family=Noto+Sans+TC">
       <root>
@@ -118,8 +118,8 @@
         <mxCell id="5DRYtWeYvcXPRbmkQv9i-41" value="&lt;font color=&quot;#ff0000&quot;&gt;&lt;span style=&quot;font-size: 25px&quot;&gt;&lt;b&gt;②&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="50" y="1160" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="5DRYtWeYvcXPRbmkQv9i-42" value="報價單號-多數軟件使用 前綴+年月日+流水號&amp;nbsp; EX： Q20200306001" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Noto Sans TC;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="100" y="1160" width="430" height="20" as="geometry" />
+        <mxCell id="5DRYtWeYvcXPRbmkQv9i-42" value="報價單號-多數軟件使用 前綴+年月日+流水號&amp;nbsp; EX： Q20200306001，可在上圖 INVOICE 的右方 設置 一個 QRCODE值為此報價單號， INVOICE下方設置一維條碼" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Noto Sans TC;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1160" width="1000" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5DRYtWeYvcXPRbmkQv9i-43" value="&lt;font color=&quot;#ff0000&quot;&gt;&lt;span style=&quot;font-size: 25px&quot;&gt;&lt;b&gt;③&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="50" y="1220.5" width="40" height="20" as="geometry" />
@@ -141,6 +141,9 @@
         </mxCell>
         <mxCell id="5DRYtWeYvcXPRbmkQv9i-84" value="&lt;font color=&quot;#ff0000&quot;&gt;&lt;span style=&quot;font-size: 25px&quot;&gt;&lt;b&gt;⑥&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="50" y="1400" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5DRYtWeYvcXPRbmkQv9i-85" value="客戶資訊：聯絡電話，Email，Web，Address&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Noto Sans TC;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1400" width="300" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
