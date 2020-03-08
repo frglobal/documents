@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-03-08T06:40:18.013Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="51f-5YPdNOtdFBHWOe04" version="12.8.1" type="github">
+<mxfile host="www.draw.io" modified="2020-03-08T12:35:53.240Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="pgIYE1vVXWKkH0e5hD4F" version="12.8.1" type="github">
   <diagram id="F8nlzbj8KXvDInRQ5DdT" name="第1頁">
     <mxGraphModel dx="1550" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0" extFonts="Noto Sans TC^https://fonts.googleapis.com/css?family=Noto+Sans+TC">
       <root>
@@ -13,8 +13,8 @@
         <mxCell id="5DRYtWeYvcXPRbmkQv9i-35" value="&lt;font style=&quot;font-size: 25px&quot; color=&quot;#ff0000&quot;&gt;&lt;b&gt;①&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="40" y="910" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="5DRYtWeYvcXPRbmkQv9i-36" value="配置紙張大小，並且考量分頁精準定位 設置左上右下單元格跟隨左父格" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Noto Sans TC;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="90" y="910" width="450" height="20" as="geometry" />
+        <mxCell id="5DRYtWeYvcXPRbmkQv9i-36" value="配置紙張大小，載入報表背景圖，設置背景圖適應紙張大小" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Noto Sans TC;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="90" y="910" width="380" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5DRYtWeYvcXPRbmkQv9i-38" value="單據樣式-貨運單套打（台灣稱套表），size（mm）：（多為定制尺寸）&lt;br&gt;套打在ERP中多為出貨單，支票，貨運單等場景使用，需要較精準的定位，連續打印不會偏移等需求&lt;br&gt;下圖是範例，盡量找解析度（分辨率）高的圖片，展示上比較好看&lt;br&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Noto Sans TC;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="70" y="20" width="850" height="70" as="geometry" />
@@ -22,44 +22,8 @@
         <mxCell id="5DRYtWeYvcXPRbmkQv9i-41" value="&lt;font color=&quot;#ff0000&quot;&gt;&lt;span style=&quot;font-size: 25px&quot;&gt;&lt;b&gt;②&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="40" y="970" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="5DRYtWeYvcXPRbmkQv9i-42" value="配置公司logo（選用，一般場景公司logo會找印刷商設計風格後整批印製）" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Noto Sans TC;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="90" y="970" width="480" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="5DRYtWeYvcXPRbmkQv9i-43" value="&lt;font color=&quot;#ff0000&quot;&gt;&lt;span style=&quot;font-size: 25px&quot;&gt;&lt;b&gt;③&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="40" y="1030.5" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="5DRYtWeYvcXPRbmkQv9i-46" value="考量多公司別時 可動態切換公司名稱及地址，聯絡電話等資訊" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Noto Sans TC;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="90" y="1031" width="400" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="5DRYtWeYvcXPRbmkQv9i-82" value="&lt;font color=&quot;#ff0000&quot;&gt;&lt;span style=&quot;font-size: 25px&quot;&gt;&lt;b&gt;⑤&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="40" y="1150" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="5DRYtWeYvcXPRbmkQv9i-83" value="zip code" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Noto Sans TC;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="90" y="1150" width="70" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="5DRYtWeYvcXPRbmkQv9i-84" value="&lt;font color=&quot;#ff0000&quot;&gt;&lt;span style=&quot;font-size: 25px&quot;&gt;&lt;b&gt;⑥&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="40" y="1210" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="5DRYtWeYvcXPRbmkQv9i-85" value="寄送地址" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Noto Sans TC;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="90" y="1210" width="70" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="eHAqkFgSr1H6kxsUId2k-2" value="&lt;font color=&quot;#ff0000&quot;&gt;&lt;span style=&quot;font-size: 25px&quot;&gt;&lt;b&gt;⑦&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="40" y="1270" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="eHAqkFgSr1H6kxsUId2k-3" value="寄送公司全名" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Noto Sans TC;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="90" y="1270" width="100" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="eHAqkFgSr1H6kxsUId2k-4" value="&lt;font color=&quot;#ff0000&quot;&gt;&lt;span style=&quot;font-size: 25px&quot;&gt;&lt;b&gt;⑧&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="40" y="1330" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="eHAqkFgSr1H6kxsUId2k-5" value="收件單位+收件人" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Noto Sans TC;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="90" y="1330" width="120" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="eHAqkFgSr1H6kxsUId2k-6" value="&lt;font color=&quot;#ff0000&quot;&gt;&lt;span style=&quot;font-size: 25px&quot;&gt;&lt;b&gt;⑨&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="40" y="1390" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="eHAqkFgSr1H6kxsUId2k-7" value="收件人聯絡電話" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Noto Sans TC;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="90" y="1390" width="110" height="20" as="geometry" />
+        <mxCell id="5DRYtWeYvcXPRbmkQv9i-42" value="添加套標格式相應資料欄位內容，記得需特別指定左上右下單元格需跟隨左父格，減少列印時偏移的差距" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Noto Sans TC;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="90" y="970" width="660" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5DRYtWeYvcXPRbmkQv9i-4" value="&lt;font style=&quot;font-size: 25px&quot; color=&quot;#ff0000&quot;&gt;&lt;b&gt;①&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="70" y="140" width="40" height="20" as="geometry" />
