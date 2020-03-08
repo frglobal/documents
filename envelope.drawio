@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-03-08T02:42:34.462Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="bgV3Kid2uFSQ1jYIaFmh" version="12.8.1" type="github">
+<mxfile host="www.draw.io" modified="2020-03-08T02:43:45.222Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="lvWNBIYA36U18l7ljHUz" version="12.8.1" type="github">
   <diagram id="F8nlzbj8KXvDInRQ5DdT" name="第1頁">
     <mxGraphModel dx="1550" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0" extFonts="Noto Sans TC^https://fonts.googleapis.com/css?family=Noto+Sans+TC">
       <root>
@@ -13,8 +13,8 @@
         <mxCell id="5DRYtWeYvcXPRbmkQv9i-36" value="配置紙張大小，並且考量分頁精準定位 設置左上右下單元格跟隨左父格" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Noto Sans TC;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="90" y="640" width="450" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="5DRYtWeYvcXPRbmkQv9i-38" value="單據樣式-Sample02-Envelope信封，size（mm）：115x231（多種尺寸，可google查看）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Noto Sans TC;fontSize=19;" parent="1" vertex="1">
-          <mxGeometry x="70" y="20" width="780" height="30" as="geometry" />
+        <mxCell id="5DRYtWeYvcXPRbmkQv9i-38" value="單據樣式-Sample02-Envelope信封，size（mm）：115x231（多種尺寸，可google查看）&lt;br&gt;信封格式種類多，可自行延伸其他格式，EX：本地化-中式直式信封 或 大宗包裹使用的牛皮紙袋" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Noto Sans TC;fontSize=19;" parent="1" vertex="1">
+          <mxGeometry x="70" y="20" width="810" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5DRYtWeYvcXPRbmkQv9i-41" value="&lt;font color=&quot;#ff0000&quot;&gt;&lt;span style=&quot;font-size: 25px&quot;&gt;&lt;b&gt;②&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="40" y="700" width="40" height="20" as="geometry" />
