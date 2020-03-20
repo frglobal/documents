@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-20T08:35:01.304Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="Va8WpGpXKTzYOsc6FyCt" version="12.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-20T08:42:09.043Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="FT4BsQc-v-BDD3s9lOGT" version="12.8.8" type="github">
   <diagram id="bk5-FLs20XoKkkuDS3l0" name="Page-1">
     <mxGraphModel dx="1550" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0" extFonts="Noto Sans TC^https://fonts.googleapis.com/css?family=Noto+Sans+TC">
       <root>
@@ -21,8 +21,20 @@
         <mxCell id="BDj3PWCr5VNTGl5wN3B4-7" value="&lt;font face=&quot;Noto Sans TC&quot;&gt;評估/建議客戶安裝環境&lt;br&gt;硬體規格&lt;/font&gt;" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;outline=throwing;symbol=general;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="150" y="230" width="50" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="BDj3PWCr5VNTGl5wN3B4-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="BDj3PWCr5VNTGl5wN3B4-8" target="BDj3PWCr5VNTGl5wN3B4-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BDj3PWCr5VNTGl5wN3B4-8" value="&lt;font face=&quot;noto sans tc&quot;&gt;確認OS版本環境&lt;/font&gt;" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;outline=throwing;symbol=general;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="150" y="410" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BDj3PWCr5VNTGl5wN3B4-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="BDj3PWCr5VNTGl5wN3B4-12" target="BDj3PWCr5VNTGl5wN3B4-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BDj3PWCr5VNTGl5wN3B4-12" value="&lt;font face=&quot;noto sans tc&quot;&gt;確認OS版本環境&lt;/font&gt;" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;outline=throwing;symbol=general;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="150" y="540" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BDj3PWCr5VNTGl5wN3B4-14" value="&lt;font face=&quot;noto sans tc&quot;&gt;確認OS版本環境&lt;/font&gt;" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;outline=throwing;symbol=general;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="150" y="670" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
