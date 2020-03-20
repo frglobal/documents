@@ -1,1 +1,30 @@
-<mxfile host="app.diagrams.net" modified="2020-03-20T08:16:41.053Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" version="12.8.8" etag="c6ONnpxmv2PSenNaP9as" type="github"><diagram id="bk5-FLs20XoKkkuDS3l0">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-03-20T08:35:01.304Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="Va8WpGpXKTzYOsc6FyCt" version="12.8.8" type="github">
+  <diagram id="bk5-FLs20XoKkkuDS3l0" name="Page-1">
+    <mxGraphModel dx="1550" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0" extFonts="Noto Sans TC^https://fonts.googleapis.com/css?family=Noto+Sans+TC">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BDj3PWCr5VNTGl5wN3B4-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="BDj3PWCr5VNTGl5wN3B4-1" target="BDj3PWCr5VNTGl5wN3B4-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="175" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BDj3PWCr5VNTGl5wN3B4-1" value="登打安裝申請單&lt;br&gt;（發起安裝任務）" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;outline=standard;symbol=general;fontSize=16;fontFamily=Noto Sans TC;FType=g;" vertex="1" parent="1">
+          <mxGeometry x="150" y="30" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BDj3PWCr5VNTGl5wN3B4-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=16;" edge="1" parent="1" source="BDj3PWCr5VNTGl5wN3B4-1" target="BDj3PWCr5VNTGl5wN3B4-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BDj3PWCr5VNTGl5wN3B4-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="BDj3PWCr5VNTGl5wN3B4-7" target="BDj3PWCr5VNTGl5wN3B4-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BDj3PWCr5VNTGl5wN3B4-7" value="&lt;font face=&quot;Noto Sans TC&quot;&gt;評估/建議客戶安裝環境&lt;br&gt;硬體規格&lt;/font&gt;" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;outline=throwing;symbol=general;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="150" y="230" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BDj3PWCr5VNTGl5wN3B4-8" value="&lt;font face=&quot;noto sans tc&quot;&gt;確認OS版本環境&lt;/font&gt;" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;outline=throwing;symbol=general;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="150" y="410" width="50" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
