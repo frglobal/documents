@@ -1,1 +1,24 @@
-<mxfile host="app.diagrams.net" modified="2020-03-25T01:57:57.221Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" version="12.9.2" etag="7txyNdCbuQMsY3VGvfAn" type="github"><diagram id="qijdKuZ8ruRjnzGcgeJu">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-03-25T02:07:20.200Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="gLfKzQp7Hp6AzCRzCnEG" version="12.9.2" type="github">
+  <diagram id="qijdKuZ8ruRjnzGcgeJu" name="Page-1">
+    <mxGraphModel dx="1186" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0" extFonts="Noto Sans TC^https://fonts.googleapis.com/css?family=Noto+Sans+TC">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6aF-KxBv0YqU3hmPFIWy-1" value="鎰福電子" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Noto Sans TC;FType=g;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6aF-KxBv0YqU3hmPFIWy-2" value="營銷戰情" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Noto Sans TC;FType=g;" vertex="1" parent="1">
+          <mxGeometry x="40" y="110" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6aF-KxBv0YqU3hmPFIWy-3" value="生產製程-Barcode" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Noto Sans TC;FType=g;" vertex="1" parent="1">
+          <mxGeometry x="40" y="420" width="130" height="60" as="geometry" />
+        </mxCell>
+        <UserObject label="https://www.preenpower.com/index?c=1" link="https://www.preenpower.com/index?c=1" id="6aF-KxBv0YqU3hmPFIWy-6">
+          <mxCell style="text;html=1;fontSize=20;" vertex="1" parent="1">
+            <mxGeometry x="170" y="34" width="380" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
